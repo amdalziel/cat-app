@@ -1,0 +1,83 @@
+.Mobile-header-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: 
+   rgba(108, 139, 44, 0.6); 
+    color: white; 
+    padding: 2.5%;
+    font-family: "Inter", sans-serif;
+   
+  }
+  
+  .Mobile-Header-logo {
+    padding: 2%; 
+    color: white; 
+  }
+
+  .Mobile-Header-div {
+    padding-top: 2%; 
+    padding-bottom: 7%; 
+    font-size: 1.1rem; 
+  }
+  
+  .Mobile-left-content {
+    flex: 1;
+    font-weight: bold;
+    margin-left: 40px;
+    font-weight: 400;
+    text-align: center;
+  }
+  
+  .Mobile-Header-left-content, .Mobile-Header-nav-menu, .Mobile-Header-social-icons {
+    display: flex;
+    align-items: center;
+    font-size: .9rem;
+    padding: 2%;
+  }
+  
+  .Mobile-Header-nav-menu ul {
+    list-style: none;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .Mobile-Header-nav-menu li {
+    margin: 0 15%;
+  }
+  
+  .Mobile-Header-nav-menu a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; /* Set your desired link color */
+  }
+  
+  .Mobile-Header-social-icons {
+    flex: 1;
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .Mobile-Header-social-icons a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; /* Set your desired social media link color */
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .Mobile-Header-social-icons a {
+    /* Apply a filter to make the images white */
+    filter: invert(100%);
+  }
+  
+  .Mobile-Header-social-icons img {
+    width: 20px; /* Adjust the width to your desired size */
+    height: auto; /* Maintain the aspect ratio */
+  }
+  /* Add Font Awesome CSS for the social media icons */
+  .fa {
+    font-size: 24px;
+  }

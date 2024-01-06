@@ -1,0 +1,98 @@
+.Mobile-footer-container {
+    background-color: #220302; 
+    color: white; 
+    padding: 20px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+  }
+  
+  
+  .Mobile-footer-left {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 40px;
+    display: flex;
+    margin:  2px;
+    justify-content: center;
+   
+  
+  }
+  
+  .Mobile-Footer-Bottom {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .Mobile-Footer-IconReference {
+  font-family: "Inter", sans-serif;
+  font-size: 10px;
+  color: white; 
+  display: flex;
+justify-content: center;
+  margin-top: 10px;
+  }
+  
+  
+  .Mobile-footer-right {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 3%;
+    font-size: .85rem;
+  }
+  
+  .Mobile-footer-right ul {
+    list-style: none;
+    font-weight: bold;
+    padding: 0;
+    display: flex;
+    margin: 0;
+  }
+  
+  .Mobile-footer-right li {
+    margin: 0 15px;
+  }
+  
+  .Mobile-footer-right a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; 
+  }
+  
+  hr {
+    border-color: white;
+  }
+  
+  .Mobile-footer-copyright {
+    text-align: left;
+    font-size: .85rem; 
+    margin-top: 10px;
+  }
+  
+  .Mobile-footer-social-icons {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px; 
+    
+    
+  }
+  
+  .Mobile-footer-social-icons a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; 
+    margin-left: 10px;
+    filter: invert(100%);
+  }
+  
+  .Mobile-social-icons img {
+    
+    width: 20px; 
+    height: auto; 
+  }
+
+  .Mobile-footer-social-icons img {
+    width: 20px; 
+    height: auto; 
+  }

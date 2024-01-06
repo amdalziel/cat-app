@@ -1,0 +1,63 @@
+
+.Cats-icon-Outline{
+    background-color: rgba(255, 255, 255, 0.65); 
+    padding: 15px; 
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 4%;
+    margin-right: 4%; 
+    margin-top: 40px;
+    margin-bottom: 40px;
+  } 
+
+  .Cats-Container {
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+    /* background-image: 
+      linear-gradient(to bottom, rgba(161, 132, 94, .85), rgba(255, 255, 255, .60)),
+      url("/public/Images/Mainbackgroundimage.jpg");   */
+      
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
+  
+  .Cats-Menu {
+    position: center;
+    width: 100%;
+    height: 100%;
+    /* background-image: 
+    linear-gradient(to bottom, rgba(161, 132, 94, .95), rgba(255, 255, 255, .95)),
+    url("/public/Images/Mainbackgroundimage.jpg") center/cover no-repeat fixed;  */
+  }
+  
+  .Cats-icon-Row {
+    display: flex;
+    justify-content:center;
+    margin: 10px 0;
+  }
+  
+  
+  .Cats-cover-Box {
+    position: absolute;
+    width: 100%;
+    height: 35%;
+    left: 0;
+    top: 4%;
+    background-color: #220302;
+    object-fit: contain;
+  }
+  
+  #catHeaderCoverBox {
+    top: 50%;
+  }
+  
+
+  
+  
+  

@@ -1,0 +1,28 @@
+.iconBox {
+   flex-grow: 1;
+   max-width: 230px;
+    margin: 30px; 
+}
+
+
+.IconMenu-p {
+    color: black; 
+    font-size: 18px; 
+    font-family: 'Inter', sans-serif;
+}
+
+
+table {
+    border-spacing: 10px;
+    /* box-shadow: 5px 5px 10px #A1845E; */
+}
+
+table td {
+    font-family: 'Inter', cursive;
+    /* border: 2px solid red;  */
+}
+
+tr :nth-child(odd) {
+    font-weight: 700;
+    color: #405823; 
+}

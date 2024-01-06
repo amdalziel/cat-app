@@ -1,0 +1,95 @@
+.footer-container {
+  background-color: #220302; 
+  color: white; 
+  padding: 20px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+
+
+.footer-left {
+  text-align: left;
+  font-weight: bold;
+  margin-left: 40px;
+  display: flex;
+  margin:  2px;
+ 
+
+}
+
+.Footer-Bottom {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.Footer-IconReference {
+font-family: "Inter", sans-serif;
+font-size: 10px;
+color: white; 
+display: flex;
+flex-direction: row-reverse; 
+margin-top: 10px;
+}
+
+
+.footer-right {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.footer-right ul {
+  list-style: none;
+  font-weight: bold;
+  padding: 0;
+  display: flex;
+  margin: 0;
+}
+
+.footer-right li {
+  margin: 0 15px;
+}
+
+.footer-right a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white; 
+}
+
+hr {
+  border-color: white;
+}
+
+.footer-copyright {
+  text-align: left;
+  font-weight: bold;
+  margin-top: 10px;
+  justify-content: flex-start;
+}
+
+.footer-social-icons {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px; 
+  
+  
+}
+
+.footer-social-icons a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white; 
+  margin-left: 10px;
+  filter: invert(100%);
+}
+
+.social-icons img {
+  
+  width: 20px; 
+  height: auto; 
+}
+.footer-social-icons img {
+  width: 20px; 
+  height: auto; 
+}

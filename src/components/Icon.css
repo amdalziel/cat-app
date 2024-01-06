@@ -1,0 +1,37 @@
+.Icon-box {
+    width: 475px;
+    margin: 30px; 
+}
+
+
+.Icon-p {
+    color: black; 
+    font-size: 16px; 
+    font-family: 'Inter', sans-serif;
+    line-height: 140%;
+    text-align: justify;
+}
+
+.material-symbols-outlined {
+    color: white; 
+   left: 17%; 
+   top: 17%;
+    /* padding: 4px; */
+    position: absolute;
+    
+}
+
+.Icon-table {
+    border-spacing: 10px;
+    /* box-shadow: 5px 5px 10px #A1845E; */
+}
+
+table td {
+    font-family: 'Inter', sans-serif;
+    /* border: 2px solid red;  */
+}
+
+tr :nth-child(odd) {
+    font-weight: 700;
+    color: #405823; 
+}
